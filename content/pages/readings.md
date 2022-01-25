@@ -1,0 +1,43 @@
+---
+content_type: page
+title: Readings
+uid: 484fd403-bfa7-7539-b991-c44eb469a4a6
+---
+
+Course Text
+-----------
+
+The course text readings cited in the following table are from the 1st edition (2004):
+
+Huettel, S. A., A. W. Song, and G. McCarthy. _Functional Magnetic Resonance Imaging._ 1st edition. Sunderland, MA: Sinauer Associates, Inc., 2004. ISBN: 9780878932887.
+
+The 2nd edition of this book (2009) was published after the Fall 2008 term, and Dr. Gollub recommends its use. Interested students should consult the corresponding sections in this edition:
+
+Huettel, S. A., A. W. Song, and G. McCarthy. [_Functional Magnetic Resonance Imaging_](https://global.oup.com/ushe/product/functional-magnetic-resonance-imaging-9780878936274?cc=in&lang=en&q=sinauer
+). 2nd ed. Sunderland, MA: Sinauer Associates, Inc., 2009. ISBN: 9780878932863.
+
+| SES # | READINGS |
+| --- | --- |
+| {{< td-colspan 2 >}}**Functional neural systems**{{< /td-colspan >}} ||
+| 1 | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} Course text {{< br >}}{{< br >}} *   Box 6.2 "Primer on Neuroanatomy" (pp. 149-155){{< br >}}    {{< br >}}*   Ch. 13.1 – 13.3 "Applications of fMRI" (pp. 359-367){{< br >}}    {{< br >}}*   Ch. 13.4.2 "Topic Areas: Memory" (pp. 377-379){{< br >}}     {{< br >}}{{< br >}} {{< h 3 >}}  {{< br >}}Supplemental{{< /h >}} {{< br >}}{{< br >}} Nolte, John. _The Human Brain_. 5th ed. Philadelphia, PA: Elsevier, 2002, chapters 1, 3, 6, 17, and portions of 22, pp. 506-525 and 547-561. ISBN: 9780323013208. {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262072540) Gazzaniga, M. [_The Cognitive Neurosciences_](https://mitpress.mit.edu/9780262072540). 3rd ed. Cambridge, MA: MIT Press, 2004, chapter 53. ISBN: 9780262072540. {{< br >}}{{< br >}} Kosslyn S. M., et al. "Neural Foundations of Imagery." _Nat Rev Neurosci_ 2, no. 9 (2001): 635-642. {{< br >}}{{< br >}}  |
+| 2 | {{< h 3 >}}Discussion{{< /h >}} {{< br >}}{{< br >}} Human Subjects in fMRI research {{< br >}}{{< br >}} Notes ([PDF]({{< baseurl >}}/resources/0910_rg_safety)) {{< br >}}{{< br >}} Slides ([PDF]({{< baseurl >}}/resources/0910_humansubject)) {{< br >}}{{< br >}}  |
+| 3 | {{< h 3 >}}Required for lab 2{{< /h >}} {{< br >}}{{< br >}} Kelley, W. M., et al. "Finding the Self? An Event-Related fMRI Study." _Journal of Cognitive Neuroscience_ 14, no. 5 (2002): 785-794. {{< br >}}{{< br >}} Raichle, M. E., et al. "A Default Mode of Brain Function." _PNAS_ 98, no. 2 (January 16, 2001): 676-682. {{< br >}}{{< br >}}  |
+| 4 | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} Course text: Chapter 6 "From Neuronal to Hemodynamic Activity" {{< br >}}{{< br >}} {{< h 3 >}}Discussion{{< /h >}} {{< br >}}{{< br >}} Moore, C. I., and R. Cao. "The Hemo-Neural Hypothesis: On The Role of Blood Flow in Information Processing." _J Neurophysiol_ 99 (2008): 2035-2047. {{< br >}}{{< br >}}  |
+| {{< td-colspan 2 >}}**Physics of image acquisitions**{{< /td-colspan >}} ||
+| 5 | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} Course text: {{< br >}}{{< br >}} *   Chapter 3: "Basic Principles of MR Signal Generation."{{< br >}}*   Chapter 4: "Basic Principles of MR Signal Formation."{{< br >}}*   Chapter 5: "MR Contrast Mechanisms and Pulse Sequences."{{< br >}}*   Chapter 9: "Signal and Noise in fMRI." {{< br >}}{{< br >}} Students who feel they need additional support in grasping all the concepts could also read as a supplement the same material in: {{< br >}}{{< br >}} Buxton, R., ed. Chapters from _Introduction to Functional Magnetic Resonance Imaging: Principles and Techniques_. Cambridge, UK: Cambridge University Press, 2001. ISBN: 9780521581134. {{< br >}}{{< br >}} *   Chapter 4: "Nuclear Magnetic Resonance." pp. 64-85.{{< br >}}*   Chapter 5: "Magnetic Resonance Imaging." pp. 86-103.{{< br >}}*   Chapter 6: "Imaging Functional Activity." pp. 104-120.{{< br >}}*   Chapter 7: "Basic Physics of Magnetism and NMR." pp. 124-154.{{< br >}}*   Chapter 8: "Relaxation and Contrast in MRI." pp. 155-184.{{< br >}}*   Chapter 10: "Mapping the MR Signal." pp. 218-248.{{< br >}}*   Chapter 11: "MRI Techniques." pp. 249-273.{{< br >}}*   Chapter 12: "Noise and Artifacts in MR Images." pp. 274-303.{{< br >}}*   Chapter 16: "The Nature of the Blood Oxygenation Level Dependent Effect." pp. 390-416.{{< br >}}*   Chapter 17: "Mapping Brain Activation with BOLD-fMRI." pp. 417-444. {{< br >}}{{< br >}} {{< h 3 >}}  {{< br >}}Discussion{{< /h >}} {{< br >}}{{< br >}} Ekstrom, L. B., et al. "Bottom-Up Dependent Gating of Frontal Signals in Early Visual Cortex." _Science_ 321 (2008): 414-417. {{< br >}}{{< br >}}  |
+| 6 | {{< h 3 >}}Discussion{{< /h >}} {{< br >}}{{< br >}} Thakkar, K. N., et al. "[Response Monitoring, Repetitive Behaviour and Anterior Cingulate Abnormalities in ASD](https://www.ncbi.nlm.nih.gov/pubmed/18550622)." _Brain_ 131, no. 9 (2008): 2464-2478. ([PDF - 4.2 MB]({{< baseurl >}}/resources/1001_man_br_2008)) {{< br >}}{{< br >}}  |
+| {{< td-colspan 2 >}}**Imaging physiologys**{{< /td-colspan >}} ||
+| 7 | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} Course text: {{< br >}}{{< br >}} *   Chapter 6: "From Neuronal to Hemodynamic Activity"{{< br >}}    {{< br >}}*   Chapter 7: "Bold fMRI"{{< br >}}    {{< br >}}*   Chapter 8: "Spatial and Temporal Properties of fMRI"{{< br >}}     {{< br >}}{{< br >}} Buxton, R., ed. _Introduction to Functional Magnetic Resonance Imaging: Principles and Techniques_. Cambridge, UK: Cambridge University Press, 2001, chapters 16 and 17. ISBN: 9780521581134. {{< br >}}{{< br >}}  |
+| 8 | {{< h 3 >}}Discussion{{< /h >}} {{< br >}}{{< br >}} Swisher, Jascha D., et al. "Visual Topography of Human Intraparietal Sulcus." _The Journal of Neuroscience_ 27, no. 20 (May 16, 2007): 5326 -5337. {{< br >}}{{< br >}}  |
+| 9 | {{< h 3 >}}Discussion{{< /h >}} {{< br >}}{{< br >}} Napadow, V. et al. "Brain Correlates of Autonomic Modulation: Combining Heart Rate Variability with fMRI." _NeuroImage_ 42 (2008): 169-177. {{< br >}}{{< br >}}  |
+| {{< td-colspan 2 >}}**Experimental designs**{{< /td-colspan >}} ||
+| 10 | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} Savoy, Robert L. "Experimental Design in Brain Activation MRI: Cautionary Tales." _Brain Research Bulletin_ 67, no. 5 (November 15, 2005): 361-367. {{< br >}}{{< br >}}  |
+| 11 | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} Course text: Chapter 9 "Signal and Noise in fMRI" {{< br >}}{{< br >}}  |
+| {{< td-colspan 2 >}}**Statistical analysis**{{< /td-colspan >}} ||
+| 12 | {{< h 3 >}}Background{{< /h >}} {{< br >}}{{< br >}} Smith, Stephen M. "Overview of fMRI Analysis." Chapter 11 in _Functional MRI: An Introduction to Methods_. Edited by P. Jezzard, P. M. Matthews, and S. M. Smith. New York, NY: Oxford University Press, 2003. ISBN: 9780198527732. {{< br >}}{{< br >}}  |
+| 13 | {{< h 3 >}}Discussion{{< /h >}} {{< br >}}{{< br >}} Lin, F-H, et al. "Event-related Single-shot Volumetric Functional Magnetic Resonance Inverse Imaging of Visual Processing." _NeuroImage_ 42 (2008): 230-247. {{< br >}}{{< br >}}  |
+| 14 | {{< h 3 >}}Discussion{{< /h >}} {{< br >}}{{< br >}} Jenkins, A. C., C. N. Macrae, and J. P. Mitchell. "Repetition Suppression of Ventromedial Prefrontal Activity During Judgments of Self and Others." _PNAS_ 105, no. 11 (March 18, 2005): 4507-4512. {{< br >}}{{< br >}}  |
+| 15 | {{< h 3 >}}Required{{< /h >}} {{< br >}}{{< br >}} Lazar, Nicole. "Multivariate Approaches." Chapter 7 in _The Statistical Analysis of Functional MRI Data_. New York, NY: Springer, 2008. ISBN: 9780387781907. {{< br >}}{{< br >}} Andersen, A. H., D. M. Gash, and M. J. Avison. "Principal Component Analysis of the Dynamic Response Measured by fMRI: A Generalized Linear Systems Framework." _Magnetic Resonance Imaging_ 17, no. 6 (1999): 795-815. {{< br >}}{{< br >}} Hyvärinen, A. and E. Oja. "Independent Component Analysis: Algorithms and Applications." _Neural Networks_ 13 (2000): 411-430. {{< br >}}{{< br >}}  |
+| {{< td-colspan 2 >}}**Structural and functional analysis**{{< /td-colspan >}} ||
+| 16 | {{< h 3 >}}Background{{< /h >}} {{< br >}}{{< br >}} Devlin, J. T., and R. A. Poldrack. "In Praise of Tedious Anatomy." _NeuroImage_ 37 (2007): 1033-1041. {{< br >}}{{< br >}}  |
+| 17 | {{< h 3 >}}Background{{< /h >}} {{< br >}}{{< br >}} Gholipour, A., et al. "Brain Functional Localization: A Survey of Image Registration Techniques." _IEEE Transactions on Medical Imaging_ 26, no. 4 (April 2007): 427-451. {{< br >}}{{< br >}} Brett, M., I. S. Johnsrude, and A. M. Owen. "The Problem of Functional Localization in the Human Brain." _Nature Reviews Neuroscience_ 3 (March 2002): 243-249. {{< br >}}{{< br >}}
